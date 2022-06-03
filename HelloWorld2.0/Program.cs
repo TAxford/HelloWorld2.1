@@ -5,10 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace HelloWorld2
+{
+    class Program
     {
         static void Main(string[] args)
         {
-        //Greeting
-        string greetingOne = "Hello World!'";
-        string greetingTwo = "My name is Timothy Axford II";
+            //Greeting
+            string greetingOne = "Hello World!'";
+            string greetingTwo = "My name is Timothy Axford II";
+        }
     }
+}
