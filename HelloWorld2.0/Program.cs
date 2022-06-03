@@ -13,6 +13,28 @@ namespace HelloWorld2
             //Greeting
             string greetingOne = "Hello World!'";
             string greetingTwo = "My name is Timothy Axford II";
+
+
+            //Give myself Attributes
+            int myAge = 36;
+            double myHeight = 5.11;
+            bool isMarried = true;
+            bool hasChildren = true;
+            bool isChild = false;
+            char myGender = 'M';
+
+            Console.WriteLine(greetingOne + greetingTwo);
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
