@@ -24,7 +24,8 @@ namespace HelloWorld2
             char myGender = 'M';
 
             Console.WriteLine(greetingOne + greetingTwo);
-
+            Console.WriteLine("I am " + myAge + " and my marriage status is " + isMarried);
+            Console.WriteLine("Am I a child? " + isChild + " however, do I have children? This is " + hasChildren); 
 
 
 
